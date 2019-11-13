@@ -1,3 +1,7 @@
+// Program.cs is one implementation for calculating FFT, 
+// the other two files (complex.cs & fourier.cs) are a separate
+// implementation for FFTs
+
 using System;
 using System.Numerics;
 using System.Linq;
