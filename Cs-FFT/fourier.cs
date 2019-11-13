@@ -1,3 +1,7 @@
+// fourier.cs and complex.cs work together as an implementation for calculating the FFT
+// Program.cs is it's own way to calculate FFT, and is to be used separately for comparison with this implementation.
+
+
 using System;
 //using System.Collections.Generic;
 //using System.Text;
